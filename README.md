@@ -1,2 +1,2 @@
 # germinate
-Bits and pieces supporting Germinate
+Bits and pieces supporting Germinate https://github.com/germinateplatform
